@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Web FullStack`**
 
-Me chamo Felipe Guidotti Augusto, tenho 24 anos e sou natural de São Paulo. Atualmente, estou finalizando o curso de Engenharia da Computação no IFSP. Sou apaixonada por tecnologia e sempre buscando saber mais afim de ser cada vez mais capaz de desenvolver soluções para as mais diversas demandas, 
-Meu perfil no Linkdln: "[Felipe Guidotti](https://www.youtube.com/@)";
+Me chamo Felipe Guidotti Augusto, tenho 24 anos e sou natural de São Paulo. Atualmente, estou finalizando o curso de Engenharia da Computação no IFSP. Sou apaixonado por tecnologia e estou sempre buscando por saber mais afim de ser cada vez mais capaz de desenvolver soluções para as mais diversas demandas.  
+Meu perfil no Linkdln: "[Felipe Guidotti](https://www.linkedin.com/in/felipe-guidotti-augusto-0944a3197/)";  
 Email: felipeguidotti.dev@gmail.com
 
 <p align="left">
